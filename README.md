@@ -1,8 +1,8 @@
-## chatgpt_api_docker
+# chatgpt_api_docker
 
 主要有以下几个接口：
 
-# http://127.0.0.1:9090/mukj_chatgpt/login
+## http://127.0.0.1:9090/mukj_chatgpt/login
 参数如下：
 ```json
 {
@@ -10,7 +10,7 @@
 "password":""
 }
 ```
-# http://127.0.0.1:9090/mukj_chatgpt/talk
+## http://127.0.0.1:9090/mukj_chatgpt/talk
 参数如下：
 ```json
 {
@@ -24,7 +24,7 @@
 "plugins":["pluginid"]
 }
 ```
-# 部署docker-compose.yaml
+## 部署docker-compose.yaml
 
 ```yaml
 version: '3.3'
