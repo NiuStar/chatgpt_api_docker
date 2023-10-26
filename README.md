@@ -6,7 +6,7 @@
 参数如下：
 ```json
 {
-“email”:"",
+"email":"",
 "password":""
 }
 ```
@@ -14,7 +14,7 @@
 参数如下：
 ```json
 {
-“action”:"next",
+"action":"next",
 "puid":"XXXX",
 "prompt":"你好",
 "message_id":"uuid",
