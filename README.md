@@ -26,7 +26,7 @@
 ```
 # 部署docker-compose.yaml
 
-```go
+```yaml
 version: '3.3'
 services:
     chatgpt-proxy:
