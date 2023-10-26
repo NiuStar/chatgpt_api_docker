@@ -40,6 +40,4 @@ services:
           3-5-ArkoseToken: http://xxxxx/token?key=xxx
           arkoselabs: 1
           PROXY: http://127.0.0.1:4000
-        volumes:
-            - /var/run/docker.sock:/var/run/docker.sock:ro
 ```
