@@ -19,7 +19,7 @@
 "prompt":"你好",
 "message_id":"uuid",
 "parent_message_id":"parent_message_uuid",
-"conversation_id":"conversation的id"，
+"conversation_id":"conversation的id",
 "model":"gpt4",
 "plugins":["pluginid"]
 }
